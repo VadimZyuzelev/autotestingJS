@@ -1,0 +1,23 @@
+{
+  "name": "autotestjs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Репозиторий для тренировки тестовых заданий",
+  "main": "capitalize.test.js",
+  "bin": {
+    "test-code": "tests/capitalize.test.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimZyuzelev/autotestingJS.git"
+  },
+  "author": "Vad_z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimZyuzelev/autotestingJS/issues"
+  },
+  "homepage": "https://github.com/VadimZyuzelev/autotestingJS#readme"
+}
